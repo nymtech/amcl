@@ -22,7 +22,7 @@ under the License.
 package XXX
 
 import "time"
-import "github.com/miracl/amcl/version3/go/amcl"
+import "github.com/nymtech/amcl/version3/go/amcl"
 
 //import "fmt"
 

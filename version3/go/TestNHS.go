@@ -24,7 +24,7 @@ package main
 
 import "fmt"
 
-import "github.com/miracl/amcl/version3/go/amcl"
+import "github.com/nymtech/amcl/version3/go/amcl"
 
 //import "amcl"
 
